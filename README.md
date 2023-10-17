@@ -19,19 +19,19 @@ For any use please respect the conditions of use of the [NiceAmin](https://boots
 # Page list
 
 - [ ] Dashboard
-- [ ] Alerts
+- [x] Alerts
 - [ ] Accordion
-- [ ] Badges
-- [ ] Breadcrumbs
-- [ ] Buttons
-- [ ] Cards
+- [x] Badges
+- [x] Breadcrumbs
+- [x] Buttons
+- [x] Cards
 - [ ] Carousel
 - [ ] List Group
 - [ ] Modal
 - [ ] Tabs
 - [ ] Pagination
 - [ ] Progress
-- [ ] Spinners
+- [x] Spinners
 - [ ] Tooltips
 - [ ] Form Elements
 - [ ] Form Layouts
@@ -42,9 +42,9 @@ For any use please respect the conditions of use of the [NiceAmin](https://boots
 - [ ] Chart.js
 - [ ] ApexCharts
 - [ ] ECharts
-- [ ] Bootstrap Icons
-- [ ] Remix Icons
-- [ ] Boxicons
+- [x] Bootstrap Icons
+- [x] Remix Icons
+- [x] Boxicons
 - [ ] Profile
 - [ ] F.A.Q
 - [ ] Contact
