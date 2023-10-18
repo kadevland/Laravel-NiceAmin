@@ -30,7 +30,7 @@ For any use please respect the conditions of use of the [NiceAmin](https://boots
 - [ ] Modal
 - [ ] Tabs
 - [ ] Pagination
-- [ ] Progress
+- [x] Progress
 - [x] Spinners
 - [ ] Tooltips
 - [ ] Form Elements
